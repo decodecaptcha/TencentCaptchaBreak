@@ -1,5 +1,5 @@
 # TencentCaptchaBreak
-关于某讯验证码 collect, vData, ekl 等加密参数的研究 纯协议 纯算法还原 手撕jsvmp
+关于某讯防水墙验证码 collect, vData, ekl 等加密参数的研究 纯协议 纯算法还原 手撕jsvmp
 
 有需求请在邮箱联系
 aiden2048@qq.com
@@ -12,7 +12,15 @@ https://www.sf-express.com/
 
 http://tms.trackmeeasy.com/
 
-...
+......
+
+
+
+
+
+
+
+
 
 
 ### 免责声明
