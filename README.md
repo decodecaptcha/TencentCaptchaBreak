@@ -1,16 +1,18 @@
 # TencentCaptchaBreak
-关于某讯滑块/某讯云验证码/天御验证码/防水墙验证码 collect, vData, ekl 等加密参数的研究 纯协议 纯算法还原 手撕jsvmp
+关于某讯滑块/某讯云验证码/天御验证码/防水墙验证码 collect, pow_answer, vData, ekl 等加密参数的研究 纯协议 纯算法还原 手撕jsvmp
 
 有需求请在邮箱联系
 
 aidenvannet@gmail.com
 
 
+# 更新说明
+截止 [2023-06-03]
 
 
-使用防水墙的网站 
+# 使用防水墙的网站 
 
-基本通用(截止2023-02-17) :
+基本通用 :
 
 https://007.qq.com/
 
@@ -20,14 +22,16 @@ http://tms.trackmeeasy.com/
 
 https://www.qidian.com/
 
+https://qzone.qq.com/
+
 Web/APP/小程序都通用
 
 ......
 
 
+# api 例子地址
 
-
-
+* [TencentCaptchaBreak](https://github.com/aiden2048/TencentCaptchaBreak)
 
 
 
