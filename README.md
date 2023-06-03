@@ -31,7 +31,7 @@ Web/APP/小程序都通用
 
 # api 例子地址
 
-* [TencentCaptchaBreak](https://github.com/aiden2048/TencentCaptchaBreak)
+* [QQ空间登录](https://github.com/aiden2048/QzoneLoginSpider)
 
 
 
