@@ -7,10 +7,14 @@ aidenvannet@gmail.com
 
 
 # 更新说明
-截止 [2023-06-03]
+[2023-08-04]: 支持最新图标点选验证码
+![image]()
+
+效果图：
+![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
 
 
-# 使用防水墙的网站 
+# 使用此类验证码的网站
 
 基本通用 :
 
