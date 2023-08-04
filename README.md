@@ -8,11 +8,11 @@ aidenvannet@gmail.com
 
 # 更新说明
 [2023-08-04]: 支持最新图标点选验证码
-![image]()
+![image](https://github.com/aiden2048/TencentCaptchaBreak/blob/main/examples/click3.png)
 
 效果图：
-![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
-
+![image](https://github.com/aiden2048/TencentCaptchaBreak/blob/main/examples/aExARLQE_bg.png)
+![image](https://github.com/aiden2048/TencentCaptchaBreak/blob/main/examples/cxnsTxsS_bg.png)
 
 # 使用此类验证码的网站
 
