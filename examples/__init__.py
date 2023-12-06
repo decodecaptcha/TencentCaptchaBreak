@@ -3,7 +3,7 @@
 
 # 有需求请在邮箱联系
 
-# aidenvannet@gmail.com
+# aidencaptcha@gmail.com
 
 
 
@@ -26,7 +26,7 @@
 
 # api 例子地址
 # QQ空间登录
-# https://github.com/aiden2048/QzoneLoginSpider
+# https://github.com/aidencaptcha/QzoneLoginSpider
 
 
 # 免责声明
